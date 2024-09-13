@@ -1,5 +1,5 @@
 ## Hi there 👋
-- Currently studying Computer Science BSc. at the University of Pécs.
+- First year studying Computer Science BSc. at the University of Pécs in Pécs, Hungary.
 - Interesed in DSA, optimization and app development.
 - Passionate about Mathematics and AI/Deep learning.
 - I mostly work with Java (focused on backend dev), but also familiar with a little Python and SQL.
